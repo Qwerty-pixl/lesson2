@@ -1,0 +1,43 @@
+body{
+    background-color:rgb(126, 238, 107);
+}
+header{
+    background: #0609bf;
+}
+main{
+     background: #000;
+    }
+footer{background: #f7f1f1;
+}
+p{
+    background: #d8ca05;
+}
+h1{
+    background: #360202;
+}
+h2{background: #d60e54;
+
+}
+h3{
+    background: #a26509;
+}
+h4{
+    background: #009;
+}
+h5{
+    background: #0660;
+}
+h6{
+    background: #4067;
+}
+strong{background: #808;
+}
+b{
+    background: #000;
+}
+span{
+    background: #a26509;
+}
+em{
+    background: #530315;
+}
